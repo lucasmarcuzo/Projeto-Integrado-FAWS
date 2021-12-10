@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5452512c-6499-4b3c-9953-cbd201bd25ac": {
+      "ProjectGuid": "5452512c-6499-4b3c-9953-cbd201bd25ac",
+      "DisplayName": "interface-wms",
+      "ColorIndex": 0
+    },
+    "cc1849b1-b18c-4909-90a7-c5b17397ef01": {
+      "ProjectGuid": "cc1849b1-b18c-4909-90a7-c5b17397ef01",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

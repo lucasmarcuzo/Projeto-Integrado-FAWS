@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucas\\Desktop\\FAWS\\Recebimento\\interface-wms\\Interface-WMS-Recebimento.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucas\\Desktop\\FAWS\\FAWS_WMS\\FAWS_WMS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\FAWS\\FAWS_WMS\\FAWS_WMS.csproj",
+        "projectName": "FAWS_WMS",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\FAWS\\FAWS_WMS\\FAWS_WMS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\lucas\\Desktop\\FAWS\\Recebimento\\interface-wms\\Interface-WMS-Recebimento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\FAWS\\Recebimento\\interface-wms\\Interface-WMS-Recebimento.csproj",
+        "projectName": "Interface-WMS-Recebimento",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\FAWS\\Recebimento\\interface-wms\\Interface-WMS-Recebimento.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Desktop\\FAWS\\Recebimento\\interface-wms\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\lucas\\Desktop\\FAWS\\FAWS_WMS\\FAWS_WMS.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Desktop\\FAWS\\FAWS_WMS\\FAWS_WMS.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.9, )"
+            },
+            "DocumentosBrasileiros": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

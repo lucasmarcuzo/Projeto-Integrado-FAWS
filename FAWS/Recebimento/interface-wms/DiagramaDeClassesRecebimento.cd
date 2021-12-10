@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Interface_WMS_Recebimento.Divergencias.CamposDGDivergencias" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAIAACgAIAAAQAAAAIIAIAIAAAAAACAA=</HashCode>
+      <FileName>Divergencias\CamposDGDivergencias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Divergencias.GerarRelatorioDivergencia" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAIAAAgAAAABAAAAABAAAAAEA=</HashCode>
+      <FileName>Divergencias\GerarRelatorioDivergencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.FrmDivergencias" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>LCE6Ir1HXzyVc6sTKz3t8VDKLGuWsaZ+0NFEWgCyDFY=</HashCode>
+      <FileName>Divergencias\Divergencias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.FrmPedidos" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A4EFUskGKmABgWBuYjiIBQPCBFcAAOESnQIAAQBAQBI=</HashCode>
+      <FileName>Pedidos\Pedidos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.FrmPortarias" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>zX7Ca/fG5ro8AP16zkjrFxMORVTTTVSlUVesTZLp25A=</HashCode>
+      <FileName>Portarias\Portarias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.Program" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.FrmRecebimento" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ebiwav0bLGW5SqJz+hrMlxO2N8mDqYpzJdC5WNLv4fk=</HashCode>
+      <FileName>Recebimento\Recebimento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.FrmRelacaoNF" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A8AGYonWACsQFgCWARSCacNyDNJQpYMKQAAQ8IOAIZA=</HashCode>
+      <FileName>Relacao de NFs\RelacaoNFs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.Ferramentas.Abas" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ferramentas\Abas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.Ferramentas.AbasFormatacoes" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAAEAAEABggBAAIAAZAAAgiQAgIIQAIAAEAAgSABA=</HashCode>
+      <FileName>Ferramentas\AbasFormatacoes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.Ferramentas.CamposValidacao" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAACCAyAAAAAAAAAAAEAQAAAAgABAAEAAA=</HashCode>
+      <FileName>Ferramentas\CamposValidacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.Ferramentas.ConexaoBD" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAABAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Ferramentas\ConexaoBD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.Ferramentas.Erros" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAQAAAAAAAAiAAAAAAAAAAEAAAAAADAAAA=</HashCode>
+      <FileName>Ferramentas\Erros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.Ferramentas.Gerar" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAIAAAAAQAAAAAAAAAAAAAAAAAEIAgAA=</HashCode>
+      <FileName>Ferramentas\Gerar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.Ferramentas.Limpar" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACAAQAAAAAAAAAAAAABAAIAAAAAAgAAAAA=</HashCode>
+      <FileName>Ferramentas\Limpar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.Ferramentas.FrmPreferencias" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAiEIBCCAAAAAACDAAAACwAAAEKABAIIkAAAAAAA=</HashCode>
+      <FileName>Ferramentas\Preferencias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Ferramentas.FrmAjuda" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAkEACAgAAAIgAAAQAAACCABAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ferramentas\Ajuda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Ferramentas.EventosDaPagina" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAQAAIAAAAAAAAAAgAAAACAAAAAAAAAAAAAAjAA=</HashCode>
+      <FileName>Ferramentas\EventosDaPagina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Ferramentas.GerenciarAcessos" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAABAAE=</HashCode>
+      <FileName>Ferramentas\GerenciarAcessos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Ferramentas.Suporte" Collapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ferramentas\Suporte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Portarias.CamposDGPortaria" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAQAACBCAAAEAICAAIAACAAEAAAAAUAAAAAIBAAAA=</HashCode>
+      <FileName>Portarias\CamposDGPortaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Portarias.GerarRelatorioPortaria" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAIAAAgAAAABAAAAABAAAAAEA=</HashCode>
+      <FileName>Portarias\GerarRelatorioPortaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Properties.Resources" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAEAABACQAEABIEEAAABPgkCA0RoQAUAALICAAQAAKw=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Properties.Settings" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Recebimento.CamposDGRecebimento" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAEAAAIABCgAIABAQAAAAAIAAAIAQAABBAAA=</HashCode>
+      <FileName>Recebimento\CamposDGRecebimento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Recebimento.Recebimento.GerarRelatorioRecebimento" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAIAAAgAAAABAAAAABAAAAAEA=</HashCode>
+      <FileName>Recebimento\GerarRelatorioRecebimento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

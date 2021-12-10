@@ -1,0 +1,149 @@
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms\interface-wms\obj\Debug\interface_wms.Form_Recebimento.resources
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms (Recebimento)\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms (Recebimento)\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms (Recebimento)\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms (Recebimento)\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms (Recebimento)\interface-wms\obj\Debug\interface_wms.Form_Recebimento.resources
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms (Recebimento)\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms (Recebimento)\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms (Recebimento)\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms (Recebimento)\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 25.05\interface-wms (Recebimento)\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\obj\Debug\interface_wms.frmPortarias.resources
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\obj\Debug\interface_wms.frmRelacaoNF.resources
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\obj\Debug\interface_wms.frmRecebimento.resources
+C:\Users\lucas\Downloads\Atv Jane 25.05(Projeto Parcial)\interface-wms (Recebimento)\interface-wms\obj\Debug\interface_wms.FrmPedidos.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface_wms.FrmPedidos.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface_wms.FrmPortarias.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface_wms.FrmRecebimento.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface_wms.FrmRelacaoNF.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.0\interface-wms\obj\Debug\interface_wms.FrmDivergencias.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface_wms.FrmPedidos.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface_wms.FrmPortarias.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface_wms.FrmRecebimento.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface_wms.FrmDivergencias.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface_wms.FrmRelacaoNF.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.1\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface_wms.FrmPedidos.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface_wms.FrmPortarias.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface_wms.FrmRecebimento.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface_wms.FrmDivergencias.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface_wms.FrmRelacaoNF.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.2\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface_wms.FrmPedidos.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface_wms.FrmPortarias.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface_wms.FrmRecebimento.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface_wms.FrmDivergencias.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface_wms.FrmRelacaoNF.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\bin\Debug\DocumentosBrasileiros.dll
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.3\interface-wms\obj\Debug\interface-wms.csproj.CopyComplete
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\bin\Debug\DocumentosBrasileiros.dll
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.FrmPedidos.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.FrmPortarias.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.FrmRecebimento.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.FrmDivergencias.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.FrmRelacaoNF.resources
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.csproj.CopyComplete
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\bin\Debug\DocumentosBrasileiros.dll
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.FrmPedidos.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.FrmPortarias.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.FrmRecebimento.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.FrmDivergencias.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface_wms.FrmRelacaoNF.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.csproj.CopyComplete
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.4 (Beta)\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\bin\Debug\DocumentosBrasileiros.dll
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface_wms.FrmPedidos.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface_wms.FrmPortarias.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface_wms.FrmRecebimento.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface_wms.FrmDivergencias.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface_wms.FrmRelacaoNF.resources
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface-wms.csproj.CopyComplete
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lucas\Downloads\Estudos\2°Semestre ADS\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\Atv Jane 08.06\Interface-WMS-Recebimento-1.5 (Beta)\interface-wms\obj\Debug\interface-wms.pdb

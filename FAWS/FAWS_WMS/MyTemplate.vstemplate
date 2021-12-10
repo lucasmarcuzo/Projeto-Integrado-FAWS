@@ -1,0 +1,36 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>FAWS_WMS</Name>
+    <Description>FAWS_WMS</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>FAWS_WMS</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="FAWS_WMS.csproj" File="FAWS_WMS.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <Folder Name="Connected Services" TargetFolderName="Connected Services" />
+      <ProjectItem ReplaceParameters="true" TargetFileName="login.cs">login.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="login.Designer.cs">login.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="login.resx">login.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="menu.cs">menu.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="menu.Designer.cs">menu.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="menu.resx">menu.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.cs">Resources.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

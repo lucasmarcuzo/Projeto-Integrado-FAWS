@@ -1,0 +1,45 @@
+	//Usuários FATEC (Limpeza do BD)
+        const string FatecUser = "FATEC@FAWS";
+        const string FatecPass = "9999";
+
+        //Usuários Professores (Acesso a todos os Módulos sem a opção de Limpeza do BD)
+        const string ProfessorUser = "FATEC@PROFESSOR";
+        const string ProfessorPass = "0000";
+
+        //Usuários Clientes e Fornecedores
+	const string ClientesFornecedoresUser = "CLIENTESEFORNECEDORES@GESTOR";
+        const string ClientesFornecedoresPass = "1100";
+
+        const string ClientesFornecedoresUser = "CLIENTESEFORNECEDORES@OPERADOR01";
+        const string ClientesFornecedoresPass = "1101";
+
+        //Usúarios Produtos
+        const string ProdutosUser = "PRODUTOS@ADMINISTRADOR";
+        const string ProdutosPass = "2200";
+
+        const string ProdutosUser = "PRODUTOS@FUNCIONARIO01";
+        const string ProdutosPass = "2201";
+
+        //Usúarios Recebimento
+        const string RecebimentoSupervisorUser = "RECEBIMENTO@SUPERVISOR";
+        const string RecebimentoSupervisorPass = "3300";        
+        
+        const string RecebimentoPorteiroUser = "RECEBIMENTO@PORTEIRO01";
+        const string RecebimentoPorteiroPass = "3301";
+
+        const string RecebimentoConferenteUser = "RECEBIMENTO@CONFERENTE01";
+        const string RecebimentoConferentePass = "3301";
+
+        const string RecebimentoInspetorUser = "RECEBIMENTO@INSPETORDEQUALIDADE01";
+        const string RecebimentoInspetorPass = "3301";
+
+        //Usúarios Armazem
+        const string ArmazemGestorUser = "ARMAZEM@GESTOR";
+        const string ArmazemGestorPass = "4400";
+
+        const string ArmazemOperadorUser = "ARMAZEM@OPERADOR01";
+        const string ArmazemOperadorPass = "4401";
+
+        //Usuários Expedição
+        const string ExpedicaoUser = "EXPEDICAO@EXPEDIDOR";
+        const string ExpedicaoPass = "5500";

@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="baseCF.Fill" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQABAAAAAAQAgAQAAAAAAQAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>g1_Classes\Fill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.Globals" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>g1_Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.SelectItem" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>g1_Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.Program" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>g1_Classes\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.UserI" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>g1_Classes\UserI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.CadastroFornecedores" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/1DQw2EQCClBRxJAQAGEBgESBM0nkAAjuCkmEgZFFn4=</HashCode>
+      <FileName>g1_ClientesFornecedores\CadastroFornecedores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formBairro" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAEkQDICBQBlQiAQCAFBgCAIAsgAgFCCgQEABoAA4=</HashCode>
+      <FileName>g1_ClientesFornecedores\formBairro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formBairroInserir" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADCAkATICAARVACAQCABBkCBAAAAAAEBCAQEABKAAY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formBairroInserir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.FormCadastroBancosInserir" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BSTAAgUDICEABBQCAQCAGBySQAQAIAAEgGAWEADAACY=</HashCode>
+      <FileName>g1_ClientesFornecedores\FormBancosInserir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.FormCadastroBancos" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACRBAiQjICSABBACAYyBCBwCAAogIAAEgOAXEIDQACY=</HashCode>
+      <FileName>g1_ClientesFornecedores\FormCadastroBancos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formCidade" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAEkQDYCBQBlAiAQCAFAgCAIAsAAgBCGgUEABoAAY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formCidade .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formCidadeInserir" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADCAsBDICIABBACAQCABBkCBAAAAAAEBGgQEABKAAY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formCidadeInserir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formCliente" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oARgEkQjICAQHFQSQ4CIFBgSAJAAgpAFFChWkohgAAY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formClienteInserir" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yDSA2SjaSgGXVTTDViAFBiiQISOAJAHsflRsBBzBDY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formClienteInserir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formEstado" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAEkQDICBQBhQiIQCAFBgCAIAoAAgFACAUEABoAgY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formEstado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formEstadoInserir" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADCAkBDICAABBACAQCABBkCBACAAAAEBCAQEABKCgY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formEstadoInserir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formMenuCadastro" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAkQDIGAABBQCASCABBoCEYBAAAEUA6AWkABAICY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formMenuCadastro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.FormStatusCadastro" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARBAgQDIKAABBACAYSAABgCAJYrIAAGgGAXEABACAY=</HashCode>
+      <FileName>g1_ClientesFornecedores\FormStatusCadastro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.FormStatusCadastroInserir" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQTBAhUHICAABBQCAQDAGBwSQAQAIAAEgGAWEABACAY=</HashCode>
+      <FileName>g1_ClientesFornecedores\FormStatusCadastroInserir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formTipoTributo" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAEkQDICAQFhQiAQCQFhgCAaAoAAgHADAUEABoAAY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formTipoTributo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formTipoTributoInserir" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IADCAkRTICAABBQCAQCBBBkCDAAAAAAEBKBQEABKAAY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formTipoTributoInserir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formTributo" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAEgQDICAQFFQiAQCAFBwCAEIcICgFACASUABqAAY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formTributo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseCF.formTributoInserir" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICLCAkQnICAABFQCASCARBgCQAAERCgkhKBQUABCAAY=</HashCode>
+      <FileName>g1_ClientesFornecedores\formTributoInserir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_ClientesFornecedores.g1_Classes.GerenciarAcessos" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAABAAA=</HashCode>
+      <FileName>g1_Classes\GerenciarAcessos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_ClientesFornecedores.g1_ClientesFornecedores.FormManual" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>g1_ClientesFornecedores\FormManual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_ClientesFornecedores.Properties.Resources" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAEAABACQAEABIEAAAABPgkCA0RoQAUAALICAAQAAKw=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_ClientesFornecedores.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

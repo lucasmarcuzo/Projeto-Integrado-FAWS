@@ -1,0 +1,11 @@
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\bin\Release\interface-wms.exe.config
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\bin\Release\interface-wms.exe
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\bin\Release\interface-wms.pdb
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\obj\Release\interface_wms.frmAddCateg.resources
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\obj\Release\interface_wms.frmAddSubCateg.resources
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\obj\Release\interface_wms.frmProdutos.resources
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\obj\Release\interface_wms.Properties.Resources.resources
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\obj\Release\interface-wms.csproj.GenerateResource.cache
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\obj\Release\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\obj\Release\interface-wms.exe
+C:\Users\kevin\Source\Repos\Rueda-Gustavo\Produtos\interface-wms\interface-wms\obj\Release\interface-wms.pdb

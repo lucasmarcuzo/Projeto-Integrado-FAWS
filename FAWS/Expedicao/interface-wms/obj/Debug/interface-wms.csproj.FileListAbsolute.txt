@@ -1,0 +1,203 @@
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\lukas\OneDrive - Fatec Centro Paula Souza\Acadêmico\2º Semestre\Linguagem de Programação - JANE MARIA DOS SANTOS EBERSON\VS Projects\interface-wms\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\obj\Debug\interface_wms.estoque.resources
+C:\Users\Dani\Downloads\WMS\interface-wms\interface-wms\obj\Debug\interface_wms.liberar.resources
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\obj\Debug\interface_wms.estoque.resources
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\obj\Debug\interface_wms.liberar.resources
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\familia\Downloads\interface-wms 1\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\obj\Debug\interface_wms.estoque.resources
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\obj\Debug\interface_wms.liberar.resources
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\Dani\Documents\WMS\interface-wms\interface-wms\obj\Debug\interface_wms.pickinglist.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.estoque.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.liberar.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.pickinglist.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\danie\Downloads\interface-wms\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\Dani\Downloads\WMS\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\Dani\Downloads\WMS\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\Dani\Downloads\WMS\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\Dani\Downloads\WMS\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\Dani\Downloads\WMS\interface-wms\obj\Debug\interface_wms.estoque.resources
+C:\Users\Dani\Downloads\WMS\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\Dani\Downloads\WMS\interface-wms\obj\Debug\interface_wms.liberar.resources
+C:\Users\Dani\Downloads\WMS\interface-wms\obj\Debug\interface_wms.pickinglist.resources
+C:\Users\Dani\Downloads\WMS\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\Dani\Downloads\WMS\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\Dani\Downloads\WMS\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Downloads\WMS\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\Dani\Downloads\WMS\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\danie\Downloads\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\danie\Downloads\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\danie\Downloads\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\danie\Downloads\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\danie\Downloads\interface-wms\interface-wms\obj\Debug\interface_wms.estoque.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\obj\Debug\interface_wms.liberar.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\obj\Debug\interface_wms.pickinglist.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\danie\Downloads\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\danie\Downloads\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\danie\Downloads\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\Dani\Downloads\interface-wms\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\Dani\Downloads\interface-wms\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\Dani\Downloads\interface-wms\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\Dani\Downloads\interface-wms\interface-wms\obj\Debug\interface-wms.csprojAssemblyReference.cache
+C:\Users\Dani\Downloads\interface-wms\interface-wms\obj\Debug\interface_wms.estoque.resources
+C:\Users\Dani\Downloads\interface-wms\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\Dani\Downloads\interface-wms\interface-wms\obj\Debug\interface_wms.liberar.resources
+C:\Users\Dani\Downloads\interface-wms\interface-wms\obj\Debug\interface_wms.pickinglist.resources
+C:\Users\Dani\Downloads\interface-wms\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\Dani\Downloads\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\Dani\Downloads\interface-wms\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Downloads\interface-wms\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\Dani\Downloads\interface-wms\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\test\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\dsdan\Documents\workspace\test\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\test\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\test\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\dsdan\Documents\workspace\test\interface-wms\obj\Debug\interface_wms.Estoque.resources
+C:\Users\dsdan\Documents\workspace\test\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\dsdan\Documents\workspace\test\interface-wms\obj\Debug\interface_wms.Liberar.resources
+C:\Users\dsdan\Documents\workspace\test\interface-wms\obj\Debug\interface_wms.PickingList.resources
+C:\Users\dsdan\Documents\workspace\test\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\dsdan\Documents\workspace\test\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\dsdan\Documents\workspace\test\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\dsdan\Documents\workspace\test\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\test\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\obj\Debug\interface_wms.Estoque.resources
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\obj\Debug\interface_wms.Liberar.resources
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\obj\Debug\interface_wms.PickingList.resources
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_1.01\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\obj\Debug\interface_wms.Estoque.resources
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\obj\Debug\interface_wms.Liberar.resources
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\obj\Debug\interface_wms.PickingList.resources
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_1.02\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\obj\Debug\interface_wms.Estoque.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\obj\Debug\interface_wms.interfaceWMS.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\obj\Debug\interface_wms.Liberar.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\obj\Debug\interface_wms.PickingList.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_2.0\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\obj\Debug\interface_wms.frmEstoque.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\obj\Debug\interface_wms.frmCadastrar.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\obj\Debug\interface_wms.frmLiberar.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\obj\Debug\interface_wms.frmPickingList.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_2.1\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\obj\Debug\interface_wms.frmEstoque.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\obj\Debug\interface_wms.frmCadastrar.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\obj\Debug\interface_wms.frmLiberar.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\obj\Debug\interface_wms.frmPickingList.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_2.2\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\obj\Debug\interface_wms.frmEstoque.resources
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\obj\Debug\interface_wms.frmCadastrar.resources
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\obj\Debug\interface_wms.frmLiberar.resources
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\obj\Debug\interface_wms.frmPickingList.resources
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\obj\Debug\interface_wms.Properties.Resources.resources
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\obj\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\obj\Debug\interface-wms.pdb
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\bin\Debug\interface-wms.exe.config
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\bin\Debug\interface-wms.exe
+C:\Users\dsdan\Documents\workspace\Expedição_3.1\interface-wms\bin\Debug\interface-wms.pdb
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\bin\Debug\Interface-WMS-Expedicao.exe.config
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\bin\Debug\Interface-WMS-Expedicao.exe
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\bin\Debug\Interface-WMS-Expedicao.pdb
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\obj\Debug\interface-wms.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\obj\Debug\interface_wms.frmEstoque.resources
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\obj\Debug\interface_wms.frmCadastrar.resources
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\obj\Debug\interface_wms.frmLiberar.resources
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\obj\Debug\interface_wms.frmPickingList.resources
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\obj\Debug\Interface_WMS_Expedicao.Properties.Resources.resources
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\obj\Debug\interface-wms.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\obj\Debug\interface-wms.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\obj\Debug\Interface-WMS-Expedicao.exe
+C:\Users\lucas\Downloads\Expedição_FINAL\interface-wms\obj\Debug\Interface-WMS-Expedicao.pdb

@@ -1,0 +1,179 @@
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\obj\Debug\FAWS_WMS.login.resources
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\obj\Debug\FAWS_WMS.menu.resources
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\obj\Debug\FAWS_WMS.Properties.Resources.resources
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\bin\Debug\FAWS_WMS.exe.config
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\bin\Debug\FAWS_WMS.exe
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\bin\Debug\FAWS_WMS.pdb
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\obj\Debug\FAWS_WMS.exe
+C:\Users\lucas\Documents\Visual Studio 2019\My Exported Templates\Nova pasta\FAWS_WMS\obj\Debug\FAWS_WMS.pdb
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.AssemblyReference.cache
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\obj\Debug\FAWS_WMS.FrmLogin.resources
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\obj\Debug\FAWS_WMS.FrmMenu.resources
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\obj\Debug\FAWS_WMS.Properties.Resources.resources
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.GenerateResource.cache
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.CoreCompileInputs.cache
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\obj\Debug\FAWS_WMS.exe
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\obj\Debug\FAWS_WMS.pdb
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\bin\Debug\FAWS_WMS.exe.config
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\bin\Debug\FAWS_WMS.exe
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\bin\Debug\FAWS_WMS.pdb
+D:\Estudos\3° Semestre ADS\Projeto Integrado\FAWS_WMS - Login\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmLimpar.resources
+C:\Users\lucas\Desktop\FAWS_WMS\bin\Debug\FAWS_WMS.exe.config
+C:\Users\lucas\Desktop\FAWS_WMS\bin\Debug\FAWS_WMS.exe
+C:\Users\lucas\Desktop\FAWS_WMS\bin\Debug\FAWS_WMS.pdb
+C:\Users\lucas\Desktop\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmLimpar.resources
+C:\Users\lucas\Desktop\FAWS_WMS\obj\Debug\FAWS_WMS.FrmLogin.resources
+C:\Users\lucas\Desktop\FAWS_WMS\obj\Debug\FAWS_WMS.FrmMenu.resources
+C:\Users\lucas\Desktop\FAWS_WMS\obj\Debug\FAWS_WMS.Properties.Resources.resources
+C:\Users\lucas\Desktop\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\FAWS_WMS\obj\Debug\FAWS_WMS.exe
+C:\Users\lucas\Desktop\FAWS_WMS\obj\Debug\FAWS_WMS.pdb
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\FAWS_WMS.exe.config
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\FAWS_WMS.exe
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\FAWS_WMS.pdb
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmLimpar.resources
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.FrmLogin.resources
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.FrmMenu.resources
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Properties.Resources.resources
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.exe
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.pdb
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\aa\FAWS_WMS.resources.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.ResolveComReference.cache
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmManualAjuda.resources
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmManualAjuda.aa.resources
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\aa\FAWS_WMS.resources.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.CopyComplete
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Recebimento.exe
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\DocumentosBrasileiros.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Recebimento.pdb
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Recebimento.exe.config
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Expedicao.pdb
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Expedicao.exe.config
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Expedicao.exe
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\Interop.Acrobat.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Produtos.exe
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\itextsharp.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Produtos.pdb
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Produtos.exe.config
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Armazem.exe
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Armazem.pdb
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Armazem.exe.config
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\FAWS_WMS.exe.config
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\FAWS_WMS.exe
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\FAWS_WMS.pdb
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\aa\FAWS_WMS.resources.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Armazem.exe
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Expedicao.exe
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Produtos.exe
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Recebimento.exe
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\itextsharp.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\DocumentosBrasileiros.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Microsoft.AppCenter.Analytics.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Microsoft.AppCenter.Crashes.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Microsoft.AppCenter.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\System.Memory.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\System.Buffers.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Armazem.pdb
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Armazem.exe.config
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Expedicao.pdb
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Expedicao.exe.config
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Produtos.pdb
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Produtos.exe.config
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Recebimento.pdb
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Recebimento.exe.config
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.ResolveComReference.cache
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmLimpar.resources
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.FrmLogin.resources
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmManualAjuda.resources
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.FrmMenu.resources
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Properties.Resources.resources
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmManualAjuda.aa.resources
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.GenerateResource.cache
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\aa\FAWS_WMS.resources.dll
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.CopyComplete
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.exe
+C:\Users\Gabriel\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.pdb
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\FAWS_WMS.exe.config
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\FAWS_WMS.exe
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\FAWS_WMS.pdb
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\aa\FAWS_WMS.resources.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Armazem.exe
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Expedicao.exe
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Produtos.exe
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Recebimento.exe
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\itextsharp.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\DocumentosBrasileiros.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Armazem.pdb
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Armazem.exe.config
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Expedicao.pdb
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Expedicao.exe.config
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Produtos.pdb
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Produtos.exe.config
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Recebimento.pdb
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-Recebimento.exe.config
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\Interop.Acrobat.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.ResolveComReference.cache
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmLimpar.resources
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.FrmLogin.resources
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmManualAjuda.resources
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.FrmMenu.resources
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Properties.Resources.resources
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FrmManualAjuda.aa.resources
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\aa\FAWS_WMS.resources.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.CopyComplete
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.exe
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.pdb
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-ClientesFornecedores.exe
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-ClientesFornecedores.pdb
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-ClientesFornecedores.exe.config
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\itextsharp.xml
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\System.Data.OleDb.dll
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\bin\Debug\System.Data.OleDb.xml
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FormContatoLogin.resources
+C:\Users\lucas\Downloads\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-ClientesFornecedores.exe
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\System.Data.OleDb.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-ClientesFornecedores.pdb
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\Interface-WMS-ClientesFornecedores.exe.config
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\itextsharp.xml
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\bin\Debug\System.Data.OleDb.xml
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.Telas.FormContatoLogin.resources
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\Interop.JRO.dll
+C:\Users\lucas\Desktop\FAWS\FAWS_WMS\obj\Debug\FAWS_WMS.csproj.AssemblyReference.cache

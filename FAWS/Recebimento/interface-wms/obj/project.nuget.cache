@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxgAR8jE2+9Huih2t2plMKqc6K9irBpl+lzCRmxKLcERd/bOeo38qqy7zVXYY9y5XRmkpNUiygJyq/zUNQE88w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\FAWS\\Recebimento\\interface-wms\\Interface-WMS-Recebimento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\documentosbrasileiros\\2.0.2\\documentosbrasileiros.2.0.2.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\itextsharp\\5.5.13.2\\itextsharp.5.5.13.2.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\system.data.oledb\\6.0.0\\system.data.oledb.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

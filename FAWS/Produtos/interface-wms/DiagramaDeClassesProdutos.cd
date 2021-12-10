@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="interface_wms.frmAddCateg" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAQAEAAACAAEAiAAAABBEAAAAAAQIBAAA=</HashCode>
+      <FileName>addcateg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.frmAddSubCateg" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABEABECAIEAGAAAABBACAAAAAQIBAAA=</HashCode>
+      <FileName>addsubcateg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.frmProdutos" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>J0hRIUkAcesuBIc2BwDAvPhHAAm6A1io0kuXnAKDQ04=</HashCode>
+      <FileName>cadastro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.conexao" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAgAAAIAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>conexao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.metodos" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAACAAAAAgAAAAAQAIQAAAAACEAA=</HashCode>
+      <FileName>metodos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.produtos" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAQAAAAACAAAAAACAAAIAABAABAAAQAAAAAAAAAEgA=</HashCode>
+      <FileName>produtos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.Program" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="interface_wms.relatorio" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgEAAIAAAAAAAABIAAAAAAAAAAEA=</HashCode>
+      <FileName>relatorio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Produtos.FrmManual" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Produtos.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAEAABACQAEABIEAAAABPgkCA0RoQAUAALICAAQAAKw=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface_WMS_Produtos.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

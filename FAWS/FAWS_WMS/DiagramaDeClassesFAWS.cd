@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FAWS_WMS.Entrada.ListaUsuarios" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jAgASAAgCIQRAQAEQAACAAQAIocQAOogiGAAEEDBAAA=</HashCode>
+      <FileName>Entrada\ListaUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FAWS_WMS.Entrada.Login" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAI=</HashCode>
+      <FileName>Entrada\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FAWS_WMS.Program" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FAWS_WMS.FrmLogin" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEEDAD0IAKUAQAAQAASAAFACAEUFAIAKAAAwAxAFCZQ=</HashCode>
+      <FileName>Telas\login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FAWS_WMS.FrmMenu" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gUUAAECAACAAABACAACABAACBwEcAARCAQEkAkANARo=</HashCode>
+      <FileName>Telas\menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FAWS_WMS.Properties.Resources" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAEAAAAAAAABEAgAAwQAAAQAEAAAAQAAAKA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FAWS_WMS.Properties.Settings" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FAWS_WMS.Telas.FrmLimpar" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAAAQACAAAACBAAAAgAAAAAAIQEAACA=</HashCode>
+      <FileName>Telas\LimparBD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FAWS_WMS.Telas.FrmManualAjuda" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KCCAAkCAACAgAAJgAACQQIAHAAJABIAAAAAAAQBAAAA=</HashCode>
+      <FileName>Telas\ManualAjuda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FAWS_WMS.Telas.FormContatoLogin" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAggACAAAACAAAAAAAQAAAAAABAAAQ=</HashCode>
+      <FileName>Telas\Suporte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

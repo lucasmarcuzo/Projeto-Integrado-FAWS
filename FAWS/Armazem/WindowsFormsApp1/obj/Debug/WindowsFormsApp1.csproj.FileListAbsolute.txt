@@ -1,0 +1,120 @@
+C:\Users\cliente\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\cliente\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\cliente\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\cliente\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\cliente\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\cliente\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\cliente\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\cliente\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\cliente\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\cliente\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\G~\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\G~\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\G~\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\G~\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\G~\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\G~\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\G~\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\G~\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\G~\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\G~\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.interfaceWMS_Armazem.resources
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.Properties.Resources.resources
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe.config
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.pdb
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.exe
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.pdb
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frminterfaceWMS_Armazem.resources
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frminterfaceWMS_Armazem.resources
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.Properties.Resources.resources
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.exe
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.pdb
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe.config
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.pdb
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmSuporteAoUsuario.resources
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe.config
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.pdb
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frminterfaceWMS_Armazem.resources
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmSuporteAoUsuario.resources
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.Properties.Resources.resources
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.exe
+C:\Users\GABRIELDASILVASANTAN\OneDrive - Fatec Centro Paula Souza\Desktop\ProjetoWMS\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.pdb
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmMapa.resources
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frminterfaceWMS_Armazem.resources
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmSuporteAoUsuario.resources
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmMapa.resources
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.exe
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.pdb
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe.config
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.Properties.Resources.resources
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\G3 - Armazém\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Gabriel\Fatec\2 ° SEMESTRE\Projeto Integrado\JANE\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe.config
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.pdb
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frminterfaceWMS_Armazem.resources
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmSuporteAoUsuario.resources
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmMapa.resources
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.Properties.Resources.resources
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.exe
+C:\Users\cliente\Desktop\Exercicios\Nova pasta\ProjetoIntegradoWMS\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.pdb
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frminterfaceWMS_Armazem.resources
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmSuporteAoUsuario.resources
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmMapa.resources
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.Properties.Resources.resources
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.exe
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.pdb
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe.config
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe
+C:\GITHUB\Fatec-Guarulhos\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.pdb
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe.config
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.exe
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\InterfaceWMS_Armazem.pdb
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frminterfaceWMS_Armazem.resources
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmMapa.resources
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.Properties.Resources.resources
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.exe
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\InterfaceWMS_Armazem.pdb
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmPreferencias.resources
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Gabriel\Fatec\3° SEMESTRE\Projeto Integrado\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frminterfaceWMS_Armazem.resources
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmPreferencias.resources
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\ProjetoIntegradoArmazem.frmMapa.resources
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\Interface-WMS-Armazem.exe.config
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\Interface-WMS-Armazem.exe
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\bin\Debug\Interface-WMS-Armazem.pdb
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\Interface_WMS_Recebimento.Properties.Resources.resources
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\Interface-WMS-Armazem.exe
+C:\Users\lucas\Downloads\ProjetoIndividualWMS\WindowsFormsApp1\obj\Debug\Interface-WMS-Armazem.pdb
