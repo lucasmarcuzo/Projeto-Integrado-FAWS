@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Projeto Integrado: Sistema de Gerenciamento de Armazém (FAWS - FATEC WAREHOUSE SYSTEM):
 
-![Optional Text](Projeto-Integrado-FAWS/interface-wms/Resources/logo.png)
+![Optional Text](FAWS/FAWS_WMS/Resources/logo.png)
 
 - Projeto Integrado de um Sistema de Gerenciamento de Armazém (WMS).
 
