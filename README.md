@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Projeto Integrado: Sistema de Gerenciamento de Armazém (FAWS - FATEC WAREHOUSE SYSTEM):
+#👨🏻‍💻 Projeto Integrado: Sistema de Gerenciamento de Armazém (FAWS - FATEC WAREHOUSE SYSTEM):
 
 ![Optional Text](FAWS/FAWS_WMS/Resources/logo.png)
 
@@ -21,7 +21,7 @@
 
 ## 📃Licenças:
 
-![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-Integrado-WMS-Recebimento)
+![MPL-2.0 License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-Integrado-FAWS)
 
 <div align="right"> <h3> - Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3> </div> 
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/FAWS"> </h3> </p>
