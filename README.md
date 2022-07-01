@@ -11,10 +11,12 @@
 ## 🛠 Tecnologias utilizadas:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 ![SQL Server CE](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe_Acrobat_DC-CC2927?style=flat&logo=Adobe&logoColor=white)
+
 
 ## 📱 Contato:
 
