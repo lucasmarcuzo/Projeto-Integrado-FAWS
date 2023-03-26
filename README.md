@@ -7,7 +7,7 @@
 
 <h4> - Desenvolvimento de um Sistema de Gerenciamento de Armazém (WMS). <br><br>
 - Iniciado em Janeiro de 2021 & Finalizado em Dezembro de 2021. <br><br>
-- Idealizado pela turma do 2° semestre de 2020 de Análise e Desenvolvimentode Sistemas da Fatec Guarulhos. </h4>
+- Idealizado pela turma do 2° semestre de 2020 de Análise e Desenvolvimento de Sistemas da Fatec Guarulhos. </h4>
 
 ## 🛠 Tecnologias utilizadas:
 
